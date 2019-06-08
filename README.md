@@ -10,7 +10,6 @@ Browse
 Sidebar 
 Inbox
 Settings 
-------------------------------
 
 # Resources
 
