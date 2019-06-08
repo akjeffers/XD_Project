@@ -18,5 +18,4 @@ Luca Vavassori - Udemy UX/UI Course
 iOS UI KIT - https://iosdesignkit.io/ios-gui/
 
 # Video
-
-https://drive.google.com/file/d/1PlcfZ_gYnmCWQ3UTt8xxzd-QZzG4kZXk/view
+https://drive.google.com/file/d/1rr87KZ9uyoNK7XnB4K7viHiVWVPV9IQu/view
